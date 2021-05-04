@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.O2ZX2DyY4sPnJz29DHi-0QHaEK?w=333&h=187&c=7&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: white;
+    margin-top: 0.4cm;
+    margin-left: 420px;
+    font-size: 65px;
+}
+
+.personal {
+    position: absolute;
+    width: 29%;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.795);
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgb(40, 220, 252);
+    border-radius: 12px;
+    text-align: center;
+    margin-left: 6.5cm;
+    margin-top: 0.6cm;
+}
+.personal h2{
+    color: black;
+    font-family: cursive;
+    font-size: 2rem;
+    font-weight: 100;
+}
+input{
+    width: 7cm;
+    padding: 0.6rem;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(87, 248, 227);
+}
+input:hover{
+    background-color: rgb(192, 227, 229);
+}
+.education {
+    position: absolute;
+    width: 29%;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.795);
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgb(40, 220, 252);
+    border-radius: 12px;
+    text-align: center;
+    margin-left: 18.5cm;
+    margin-top: 0.6cm;
+}
+.education h2{
+    color: black;
+    font-family: cursive;
+    font-size: 2rem;
+    font-weight: 100;
+}
+button{
+    width: 50%;
+    padding: 0.6rem;
+    background-color: rgba(0, 0, 0, 0.479);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.bb{
+    margin-bottom: 2cm;
+}
+h5{
+    text-align: center;
+    width: 4cm;
+    margin-top: 13.5cm;
+    margin-left: 16.3cm;
+    background-color: rgb(40, 220, 252);
+    height: 0.9cm;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.bb h5 a{
+    color: black;
+    font-size: 0.55cm;
+    font-family: cursive;
+    text-decoration: none;
+    padding-top: 0.4cm;
+}

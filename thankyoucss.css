@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.O2ZX2DyY4sPnJz29DHi-0QHaEK?w=333&h=187&c=7&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.content{
+    justify-content: center;
+    text-align: center;
+    margin-top: 2.5cm;
+}
+h1{
+    color: white;
+    font-size: 125px;
+    margin: 5px;
+    font-family: cursive;
+}
+h2{
+    color: white;
+    font-size: 35px;
+    font-family: cursive;
+}

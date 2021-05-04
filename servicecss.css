@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.O2ZX2DyY4sPnJz29DHi-0QHaEK?w=333&h=187&c=7&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.topnav {
+    margin-top: -4px;
+    background-color: #333;
+    overflow: hidden;
+    height: 52px;
+    width: 100%;
+    background-color: white;
+    border-bottom: 3px solid rgb(16, 221, 248);
+  }
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    padding-left: 10px;
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+    font-size: 21px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(16, 221, 248);
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: rgb(46, 209, 238);
+    color: black;
+  }
+  .main .main1 h1{
+      color: white;
+      font-size: 55px;
+      margin-top: 2cm;
+      margin-left: 14cm; 
+      font-family: cursive;
+  }
+  .main .main2 .part1,.part2,.part3,.part4{
+      width: 8cm;
+      justify-content: center;
+      text-align: center;
+      background-color: white;
+      margin: 0.7cm;
+      box-shadow: 0 16px 26px rgb(40, 220, 252);
+      border-radius: 20px;
+  }
+  .main .main2 h1{
+      color: rgb(40, 220, 252);
+  }
+ i{
+    size: 1.2cm;
+    height: 1cm;
+    width: 1cm;
+    margin: 0.25cm;
+} 
+  .main .main2{
+      display: flex;
+      justify-content: center;
+      margin-top: 1.5cm;
+  }
+  h1,h2,h4{
+      margin: 0.15cm;
+  }
+  .main .main2 .box{
+      margin-left: 2.5cm;
+      text-align: center;
+      justify-content: center;
+    position: relative;
+    padding: 20px;
+    display: flex;
+    height: 1.2cm;
+    width: 1.2cm;
+    background-color: rgb(40, 220, 252);
+    border-radius: 50%;
+}
+.main .main2 .box .icon{
+    min-width: 60px;
+    height: 60px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+}
+.main .main2 .part1:hover{
+    background-color: rgb(98, 99, 99);
+}
+.main .main2 .part2:hover{
+    background-color: rgb(98, 99, 99);
+}
+.main .main2 .part3:hover{
+    background-color: rgb(98, 99, 99);
+}
+.main .main2 .part4:hover{
+    background-color: rgb(98, 99, 99);
+}
